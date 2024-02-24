@@ -1,6 +1,7 @@
-# {{cookiecutter.project_name}}
+python3 -m venv fidelity_program
 
-## {{cookiecutter.description}}
+source fidelity_program/bin/activate
+
 
 #### This project was made by {{cookiecutter.author}}.
 
