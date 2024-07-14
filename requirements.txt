@@ -1,0 +1,6 @@
+pandas
+seaborn
+umap-learn
+ydata_profiling
+scikit-learn
+yellowbrick
